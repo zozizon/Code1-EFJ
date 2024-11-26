@@ -1,0 +1,54 @@
+h1  {
+  color: #5c4742;
+  font-family: "Montserrat", serif;
+  width: 500px;
+  height: 200px;
+  margin: 0 auto;
+  margin: 80px;
+  padding: 40px ;
+  box-shadow: 10px 10px 10px;
+   background-color: #a5978b;
+   border-radius: 20px;
+}
+
+
+
+
+h3  {
+  font-family: "Quicksand", serif;
+   display: flex ;
+   box-shadow: 10px 10px 10px;
+   background-color: #a5978b;
+   border-radius: 20px;
+
+}
+
+ 
+body {
+  background-color: #c4bbaf;
+
+
+
+}
+
+.frame  {
+  width: 200px ;
+  height: 250px;
+  border-radius: 50%;
+
+}
+
+a  {
+color: #5a2a27;
+font-family: "Quicksand", serif;
+box-shadow: 10px 10px 10px;
+   background-color: #a5978b;
+   border-radius: 20px;
+}
+
+
+.go {
+  display: flex;
+}
+ 
+  
